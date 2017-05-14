@@ -13,4 +13,4 @@ JavaScript 6+ • React • Elm • ReasonML • More
 Web components include:
 
 - SearchApp
-- Result result=<result>
+- Result result=_result_
