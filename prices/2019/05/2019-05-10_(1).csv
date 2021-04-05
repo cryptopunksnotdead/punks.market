@@ -1,2 +1,2 @@
-timestamp, id, price (in eth)
-2019-05-10 14:29:21, 9693, 0.5
+timestamp, id, price (in eth), price (in wei)
+2019-05-10 14:29:21 UTC, 9693, 0.500000, 500000000000000000

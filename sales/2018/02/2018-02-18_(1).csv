@@ -1,0 +1,2 @@
+timestamp, id, price (in eth), price (in wei), from, to, block, tx
+2018-02-18 08:08:32 UTC, 3759, 0.090000, 90000000000000000, 0x53ede7cae3eb6a7d11429fe589c0278c9acbe21a, 0x6fe0dd8f19ccaf35b8c62c2fde8faa753e5ed335, 5111523, 0xa554078ae5473fcb996f523899312edcadea12ee12e356b449877101ba8dab5b

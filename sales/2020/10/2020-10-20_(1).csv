@@ -1,0 +1,2 @@
+timestamp, id, price (in eth), price (in wei), from, to, block, tx
+2020-10-20 08:19:19 UTC, 3700, 12.500000, 12500000000000000000, 0xcf0e9b4746cfb97bae329fe5f696969f6564566a, 0xf983557ec70fbf1a4b1e247af7bf10247e9b69c4, 11091868, 0xea44aae6579dbcf78c014eb54bcae80ebc8e85d2a9e6cd7a84241eae78bdf0a3

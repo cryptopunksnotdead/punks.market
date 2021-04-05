@@ -1,2 +1,2 @@
-timestamp, id, price (in eth)
-2017-12-01 03:01:07, 2405, 0.09
+timestamp, id, price (in eth), price (in wei)
+2017-12-01 03:01:07 UTC, 2405, 0.090000, 90000000000000000

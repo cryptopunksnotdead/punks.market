@@ -1,0 +1,2 @@
+timestamp, id, price (in eth), price (in wei), from, to, block, tx
+2019-06-23 14:27:54 UTC, 7819, 0.660000, 660000000000000000, 0x53ede7cae3eb6a7d11429fe589c0278c9acbe21a, 0xde08e910eecf4407252845e908f3ff02fd774014, 8014830, 0x085be776e24167a6afb58c22fe8ca73fb8cda462b87fcdeaf3931b1dc96ab83d

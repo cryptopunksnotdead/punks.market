@@ -1,0 +1,2 @@
+timestamp, id, price (in eth), price (in wei), from, to, block, tx
+2019-07-07 01:36:26 UTC, 3452, 0.499800, 499800000000000000, 0x3ef5f421e155ed29e6fa815fd875bfcd5f22ecd1, 0xc1894e6a52c4c7ac5b2e0b25583ea48bf45da14a, 8101241, 0x19ca752b4249cc4f75abebf727bf1ceea991d60e77e641b7ec5fb85c72c81f34
