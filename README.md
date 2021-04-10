@@ -60,6 +60,11 @@ Do you have a tool for the punks dataset? Let us know! Add your tool here.
 
 
 
+## Questions? Comments?
+
+Post them on the [cryptopunks reddit](https://old.reddit.com/r/cryptopunks). Thanks.
+
+
 ## License
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
