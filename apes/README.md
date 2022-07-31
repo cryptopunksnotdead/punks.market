@@ -38,6 +38,9 @@ Links:
 
 > What if all 10 000 punks were apes?
 
+Note:  As of July 31st, 2022  - only 1868 minted (out of 10 000?).
+
+
 
 Archetypes:
 
