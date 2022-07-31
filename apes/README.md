@@ -23,7 +23,7 @@ Archetypes:
 
 Archetypes:
 
-![](i/ye_olde_ape-male.a.png)  (Male) Ape   - Variant A (w/ Front in Lighter Fur Color)
+![](i/ye_olde_ape-male.a.png)  (Male) Ape   - Variant A (w/ Front in Lighter Fur Color)  <br>
 ![](i/ye_olde_ape-female.png)  (Female) Ape
 
 
@@ -69,32 +69,32 @@ Note:  The collection "advertised" (by 24px) as 24px but the size / dimension is
 
 incl. 29 body (a.k.a. fur color) types:
 
-Dark brown (1 046) ·
+Dark Brown (1 046) ·
 Brown (1 037)  ·
 Black (980) ·
-Light brown (779) ·
+Light Brown (779) ·
 Beige (681) ·
-Gotsun (492) ·
+Got Sun (492) ·
 Lady (436) ·
 Blue (433) ·
 Grey (388) ·
 Red (387)  ·
 Albino (345) ·
-Africa animal (306) ·
-Woke from dead (258) ·
-Neon glow (257) ·
+Africa Animal (306) ·
+Woke From Dead (258) ·
+Neon Glow (257) ·
 Machine (241) ·
-Candy cane (196) ·
-Holo rainbow (189) ·
+Candy Cane (196) ·
+Holo Rainbow (189) ·
 Bloodbath (184) ·
-Easter egg (180) ·
+Easter Egg (180) ·
 Nature (177) ·
 Checkered (174) ·
-Bad machine (158) ·
+Bad Machine (158) ·
 Vector (137) ·
-No signal (130) ·
-Color dots (121) ·
-Stars and stripes (58) ·
+No Signal (130) ·
+Color Dots (121) ·
+Stars And Stripes (58) ·
 Acid (52) ·
 Void (49) ·
 Au (35)
