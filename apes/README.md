@@ -40,15 +40,15 @@ Links:
 
 Archetypes:
 
-![](i/ye_olde_ape-male.a.png)  (Male) Ape - (Brown) Variant A (w/ Shine)
-![](i/ye_olde_ape_light-male.png)  (Male) Ape - Light
-![](i/ye_olde_ape_red-male.png)  (Male) Ape - Red
-![](i/ape_gold-male.png)  (Male) Ape - Gold
-![](i/ape_zombie-male.png)  (Male) Ape - Zombie
+![](i/ye_olde_ape-male.a.png)  (Male) Ape - (Brown) Variant A (w/ Shine)   <br>
+![](i/ye_olde_ape_light-male.png)  (Male) Ape - Light  <br>
+![](i/ye_olde_ape_red-male.png)  (Male) Ape - Red  <br>
+![](i/ape_gold-male.png)  (Male) Ape - Gold   <br>
+![](i/ape_zombie-male.png)  (Male) Ape - Zombie  <br>
 ![](i/ape_zombie-alien.png)  (Male) Ape - Alien
 
-![](i/ye_olde_ape-female.a.png)  (Female) Ape - (Brown) Variant A (w/ Shine, Front)
-![](i/ye_olde_ape_light-female.png)  (Male) Ape - Light
+![](i/ye_olde_ape-female.a.png)  (Female) Ape - (Brown) Variant A (w/ Shine, Front)  <br>
+![](i/ye_olde_ape_light-female.png)  (Male) Ape - Light   <br>
 ![](i/ye_olde_ape_red-female.png)  (Male) Ape - Red
 
 
