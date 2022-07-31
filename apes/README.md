@@ -32,7 +32,7 @@ Links:
 
 
 
-**10 000 Ape Punks (24×24px)**   incl.  new (male & female) apes in two new skin (colors) - light / red - and (male) zombie and (male) alien apes & more
+**10 000 Ape Punks (24×24px)**   incl.  new (male & female) apes in two new fur colors - light / red - and (male) zombie and (male) alien apes & more
 
 
 > What if all 10 000 punks were apes?
@@ -66,7 +66,7 @@ Links:
 Note:  The collection "advertised" (by 24px) as 24px but the size / dimension is really 28×28px.
 
 
-incl. 29 body types / skin tones:
+incl. 29 body (a.k.a. fur color) types:
 
 Dark brown (1 046) ·
 Brown (1 037)  ·
@@ -110,6 +110,46 @@ Links:
 ## 2022
 
 
+**5555 Punk Apes / Punk Ape Pixel Club  (24×24px)**  incl. (male) apes in sixteen fur color variants plus ape zombie, alien and bots
+
+Archetypes:
+
+![](i/papc/dark_brown.png)      (Male) Ape Dark Brown<br>
+![](i/papc/golden_brown.png)      (Male) Ape Golden Brown <br>
+![](i/papc/brown.png)      (Male) Ape Brown <br>
+![](i/papc/black.png)      (Male) Ape Black <br>
+![](i/papc/gray.png)      (Male) Ape Gray <br>
+![](i/papc/blue.png)      (Male) Ape Blue <br>
+![](i/papc/dmt.png)      (Male) Ape DMT <br>
+![](i/papc/pink.png)      (Male) Ape Pink <br>
+![](i/papc/red.png)      (Male) Ape Red <br>
+![](i/papc/cheetah.png)      (Male) Ape Cheetah <br>
+![](i/papc/tan.png)      (Male) Ape Tan <br>
+![](i/papc/cream.png)      (Male) Ape Cream <br>
+![](i/papc/white.png)      (Male) Ape White <br>
+![](i/papc/solid_gold.png)      (Male) Ape Solid Gold  <br>
+![](i/papc/noise.png)      (Male) Ape Noise <br>
+![](i/papc/trippy.png)      (Male) Ape Trippy <br>
+
+
+![](i/papc/zombie.png)      (Male) Ape Zombie <br>
+![](i/papc/alien.png)       (Male) Ape Alien <br>
+![](i/papc/bot.png)         (Male) Ape Bot  <br>
+![](i/papc/death_bot.png)   (Male) Ape Bot - Death
+
+
+<!-- todo:   "restore" white eyes to "original" - do NOT modernize here -->
+
+Links:
+- [Ethereum Contract - Punk Ape Pixel Club (PAPC)](https://etherscan.io/address/0x4af30b139f60c5f9ef5a494674d41e93114f5e1e) created on March 24th 2022
+  - [OpenSea /papc-punk-ape-pixel-club](https://opensea.io/collection/papc-punk-ape-pixel-club) - 368 items
+- [Ethereum Contract -  PAPC-Genesis](https://etherscan.io/address/0xab03e301a7b2397e91557adfbb3213441312923c) created on May 30th 2022
+  - [OpenSea /papc-genesis](https://opensea.io/collection/papc-genesis) - 4 358 items
+- [Updates @PUNKxAPE](https://twitter.com/PUNKxAPE)
+
+
+
+
 
 **5000 Marcs (24×24px)** incl.  (male)  marc a16z egghead  apes and 1/1s marc a16z dickhead apes
 
@@ -139,7 +179,7 @@ See [**Evolution of Apes - Modernizing / Updating The Ape Archetypes - Request f
 > "backwards-compatibility" and as a first touch-up:
 >
 > 1. to change the eyes to black and white pixel pairs and
-> 2. to change the all-black front to the lighter skin color
+> 2. to change the all-black front to the lighter fur color
 >    (and if anyone wants to get it back to offer a new yet to be
 >    named "ape black front" attribute or such.)
 >
