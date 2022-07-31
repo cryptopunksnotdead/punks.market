@@ -45,7 +45,7 @@ Archetypes:
 ![](i/ye_olde_ape_red-male.png)  (Male) Ape - Red  <br>
 ![](i/ape_gold-male.png)  (Male) Ape - Gold   <br>
 ![](i/ape_zombie-male.png)  (Male) Ape - Zombie  <br>
-![](i/ape_zombie-alien.png)  (Male) Ape - Alien
+![](i/ape_alien-male.png)  (Male) Ape - Alien
 
 ![](i/ye_olde_ape-female.a.png)  (Female) Ape - (Brown) Variant A (w/ Shine, Front)  <br>
 ![](i/ye_olde_ape_light-female.png)  (Male) Ape - Light   <br>
@@ -59,12 +59,72 @@ Links:
 
 
 
+**9900 We Ape 24 (28×28px)**
+
+> ~24px~ 28px apes! 9900 algorithmically composed pixel apes! Each trait handcrafted! Together strong!
+
+Note:  The collection "advertised" (by 24px) as 24px but the size / dimension is really 28×28px.
+
+
+incl. 29 body types / skin tones:
+
+Dark brown (1 046) ·
+Brown (1 037)  ·
+Black (980) ·
+Light brown (779) ·
+Beige (681) ·
+Gotsun (492) ·
+Lady (436) ·
+Blue (433) ·
+Grey (388) ·
+Red (387)  ·
+Albino (345) ·
+Africa animal (306) ·
+Woke from dead (258) ·
+Neon glow (257) ·
+Machine (241) ·
+Candy cane (196) ·
+Holo rainbow (189) ·
+Bloodbath (184) ·
+Easter egg (180) ·
+Nature (177) ·
+Checkered (174) ·
+Bad machine (158) ·
+Vector (137) ·
+No signal (130) ·
+Color dots (121) ·
+Stars and stripes (58) ·
+Acid (52) ·
+Void (49) ·
+Au (35)
+
+
+
+Links:
+- [OpenSea /weape24](https://opensea.io/collection/weape24)
+
+
+
+
+
 ## 2022
 
 
 
 **5000 Marcs (24×24px)** incl.  (male)  marc a16z egghead  apes and 1/1s marc a16z dickhead apes
 
+
+Archetypes:
+
+![](i/ape_marc.png)  (Male) Ape - Marc "Egghead"  <br>
+![](i/ape_marc_1-1.png)  (Male) Ape - Marc "Dickhead"
+
+
+
+Links:
+- [Ethereum Contract - Crypto Marcs (MARCS)](https://etherscan.io/address/0xe9b91d537c3aa5a3fa87275fbd2e4feaaed69bd0) created on July 17th 2022
+- [OpenSea /crypto-marcs](https://opensea.io/collection/crypto-marcs)
+- [Updates @cryptomarcs](https://twitter.com/cryptomarcs)
 
 
 
@@ -73,7 +133,16 @@ Links:
 
 ## Bonus:  Evolution of the Apes
 
+See [**Evolution of Apes - Modernizing / Updating The Ape Archetypes - Request for Comments**](https://old.reddit.com/r/DIYPunkArt/comments/w729wg/evolution_of_apes_modernizing_updating_the_ape/)
 
+>  The idea is to modernize without breaking
+> "backwards-compatibility" and as a first touch-up:
+>
+> 1. to change the eyes to black and white pixel pairs and
+> 2. to change the all-black front to the lighter skin color
+>    (and if anyone wants to get it back to offer a new yet to be
+>    named "ape black front" attribute or such.)
+>
 
 
 
