@@ -60,10 +60,6 @@ Do you have a tool for the punks dataset? Let us know! Add your tool here.
 
 
 
-## Questions? Comments?
-
-Post them on the [CryptoPunksDev reddit](https://old.reddit.com/r/CryptoPunksDev). Thanks.
-
 
 ## License
 
@@ -73,4 +69,9 @@ The punks dataset
 is dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
 
+
+
+## Questions? Comments?
+
+Post them on the [D.I.Y. Punk (Pixel) Art reddit](https://old.reddit.com/r/DIYPunkArt). Thanks.
 
