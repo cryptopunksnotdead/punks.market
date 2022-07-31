@@ -23,6 +23,7 @@ Archetypes:
 
 Archetypes:
 
+![](i/ye_olde_ape-male.a.png)  (Male) Ape   - Variant A (w/ Front in Lighter Fur Color)
 ![](i/ye_olde_ape-female.png)  (Female) Ape
 
 
@@ -40,7 +41,7 @@ Links:
 
 Archetypes:
 
-![](i/ye_olde_ape-male.a.png)  (Male) Ape - (Brown) Variant A (w/ Shine)   <br>
+![](i/ye_olde_ape-male.b.png)  (Male) Ape - (Brown) Variant B (w/ Shine)   <br>
 ![](i/ye_olde_ape_light-male.png)  (Male) Ape - Light  <br>
 ![](i/ye_olde_ape_red-male.png)  (Male) Ape - Red  <br>
 ![](i/ape_gold-male.png)  (Male) Ape - Gold   <br>
