@@ -138,8 +138,6 @@ Archetypes:
 ![](i/papc/death_bot.png)   (Male) Ape Bot - Death
 
 
-<!-- todo:   "restore" white eyes to "original" - do NOT modernize here -->
-
 Links:
 - [Ethereum Contract - Punk Ape Pixel Club (PAPC)](https://etherscan.io/address/0x4af30b139f60c5f9ef5a494674d41e93114f5e1e) created on March 24th 2022
   - [OpenSea /papc-punk-ape-pixel-club](https://opensea.io/collection/papc-punk-ape-pixel-club) - 368 items
@@ -147,7 +145,44 @@ Links:
   - [OpenSea /papc-genesis](https://opensea.io/collection/papc-genesis) - 4 358 items
 - [Updates @PUNKxAPE](https://twitter.com/PUNKxAPE)
 
+<!-- try to sort out what contract(s) to use for 5555 apes ??
+   -->
 
+
+
+
+**10 000 Binary Apes / Binary Ape Yolo Club (24×24px)**
+incl.  (male) apes in fourteen fur color variants plus ape zombie, alien and vampire
+
+
+Archetypes:
+
+(Male) Ape Dark Brown  <br>
+(Male) Ape Golden Brown <br>
+(Male) Ape Brown  <br>
+(Male) Ape Black  <br>
+(Male) Ape Gray  <br>
+(Male) Ape Red   <br>
+(Male) Ape Purple   <br>
+(Male) Ape Mint   <br>
+(Male) Ape Pink  <br>
+(Male) Ape Green   <br>
+(Male) Ape Sky Blue  <br>
+(Male) Ape Yellow  <br>
+(Male) Ape Tan   <br>
+(Male) Ape White
+
+(Male) Ape Zombie  <br>
+(Male) Ape Alien   <br>
+(Male) Ape Vampire
+
+
+
+
+Links:
+- [Ethereum Contract - Crypto BAYC (CBAYC)](https://etherscan.io/address/0xdcd552496f0240374e365b7776239672bfd891a8) created on February 21st 2022
+- [OpenSea /binaryapes](https://opensea.io/collection/binaryapes)
+- [Updates @BinaryApes](https://twitter.com/BinaryApes)
 
 
 
