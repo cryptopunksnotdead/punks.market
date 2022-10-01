@@ -3,13 +3,22 @@ Crypto Collectibles Series -
 [Punks](https://github.com/cryptopunksnotdead/market.punks)
 
 
-# Punks Market Data
+# Punks Market Data & (Research) Articles
 
 
-## Prices Dataset
+## (Research) Articles
+
+[**(Pixel) Apes & Monkeys (Chimps, Gorillas & Kongs) Art & Token (Sales) Timeline / Evolution**](apes)
 
 
-All sales tracked via the
+
+
+## Datasets
+
+### Prices Dataset
+
+
+All Matt & John's® punk sales tracked via the
 blockchain recorded data from the `CryptoPunksMarket` contract
 in comma-separated values (CSV) format.
 One datafile for every day with transaction count
@@ -31,9 +40,9 @@ Note: For more transactions details (incl. from, to, block, etc.) see the Sales 
 
 
 
-## Sales Dateaset
+### Sales Dateaset
 
-All sales tracked via the
+All Matt & John's® punk sales tracked via the
 blockchain recorded data from the `CryptoPunksMarket` contract
 in comma-separated values (CSV) format.
 One datafile for every day with transaction count
