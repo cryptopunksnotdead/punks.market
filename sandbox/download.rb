@@ -117,6 +117,14 @@ slugs = ethereum_slugs +
 pp slugs
 
 
+
+
+slugs = %w[
+  crypto-marcs
+  punked-goblins
+]
+
+
 download( slugs )
 
 
