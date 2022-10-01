@@ -11,11 +11,11 @@ Crypto Collectibles Series -
 [**(Pixel) Apes & Monkeys (Chimps, Gorillas & Kongs) Art & Token (Sales) Timeline / Evolution**](apes)
 
 
-## (Auto-Generated) Collection Reports from (Cached) Opensea Datasets
+## (Auto-Generated) Punk (Pixel Art) Collection Reports from (Cached) Opensea Datasets
 
-- [Collections Timeline (in Reverse Chronological Order)](COLLECTIONS.md)
-- [Top Collections by All-Time Sales Volume (in Ξ)](TOP.md)
-- [Trending Collections (in 30d/7d/1d Sales Volume)](TRENDING.md)
+- [Punk Collections Timeline (in Reverse Chronological Order)](COLLECTIONS.md)
+- [Top Punk Collections by All-Time Sales Volume (in Ξ)](TOP.md)
+- [Trending Punk Collections (in 30d/7d/1d Sales Volume)](TRENDING.md)
 
 
 See the scripts in the /sandbox directory to update the (cached)
