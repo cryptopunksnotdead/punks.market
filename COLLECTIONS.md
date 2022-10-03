@@ -1,5 +1,44 @@
 # Collections
 
+##  PUNK APES YC
+
+opensea: [punk-ape-yacht-club-v2](https://opensea.io/collection/punk-ape-yacht-club-v2) - created on Sep 14, 2022<br>
+web:  <https://punkapeyachtclub.com/><br>
+twitter: [PunkApe_YC](https://twitter.com/PunkApe_YC)<br>
+
+contracts (1):
+- **Unidentified contract ()** created on Sep 12, 2022 @ [0xe5a5520b798c5f67ca1b0657b932656df02595ad](https://etherscan.io/address/0xe5a5520b798c5f67ca1b0657b932656df02595ad)
+
+stats:
+- count / total supply: 4988 / 4988, num owners:  1093
+- total sales:  3255, total volume: Ξ69.13 (~ US$ 89871)
+- average price: Ξ0.02 (~ US$ 27.61)
+- floor price: Ξ0.005 (~ US$ 5.98)
+
+fees: seller 6.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (14):</summary>
+
+- Glitch (2)
+- Nose (2)
+- Earring (7)
+- Mouth (19)
+- Eyes (26)
+- Beard (4)
+- Rosy cheeks (2)
+- Head (35)
+- Neck (4)
+- Clothes (24)
+- Fur (20)
+- Background (8)
+- Soul (6)
+- FLEX (10)
+
+</details>
+
+
 ##  V3Phunks
 
 opensea: [v3phunks](https://opensea.io/collection/v3phunks) - created on Aug 27, 2022<br>
@@ -10,10 +49,10 @@ contracts (1):
 - **V3 Phunks (V3PHUNKS)** created on Aug 27, 2022 @ [0xb7d405bee01c70a9577316c1b9c2505f146e8842](https://etherscan.io/address/0xb7d405bee01c70a9577316c1b9c2505f146e8842)
 
 stats:
-- count / total supply: 9998 / 9998, num owners:  1441
-- total sales:  7550, total volume: Ξ180.48 (~ US$ 234627)
-- average price: Ξ0.02 (~ US$ 31.08)
-- floor price: Ξ0.008 (~ US$ 10.27)
+- count / total supply: 9998 / 9998, num owners:  1442
+- total sales:  7561, total volume: Ξ180.71 (~ US$ 234922)
+- average price: Ξ0.02 (~ US$ 31.07)
+- floor price: Ξ0.008 (~ US$ 10.40)
 
 fees: seller -, opensea 2.5%
 
@@ -34,6 +73,33 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Neck (3)
 - Cheeks (1)
 - Teeth (1)
+
+</details>
+
+
+##  Punked Goblins
+
+opensea: [punked-goblins](https://opensea.io/collection/punked-goblins) - created on Aug 14, 2022<br>
+web:  <https://punkedgoblins.com><br>
+twitter: [PunkedGoblins](https://twitter.com/PunkedGoblins)<br>
+
+contracts (1):
+- **Punked Goblins (PG)** created on Aug 14, 2022 @ [0xc1464cee1fed185505cf20794952739a689d8bda](https://etherscan.io/address/0xc1464cee1fed185505cf20794952739a689d8bda)
+
+stats:
+- count / total supply: 498 / 498, num owners:  107
+- total sales:  3, total volume: Ξ0.02 (~ US$ 25.74)
+- average price: Ξ0.007 (~ US$ 8.58)
+- floor price: Ξ0.005 (~ US$ 6.37)
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (2):</summary>
+
+- type (6)
+- accessory (84)
 
 </details>
 
@@ -75,6 +141,43 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  Crypto Marcs
+
+opensea: [crypto-marcs](https://opensea.io/collection/crypto-marcs) - created on Jul 17, 2022<br>
+web:  <http://cryptomarcs.xyz><br>
+twitter: [cryptomarcs](https://twitter.com/cryptomarcs)<br>
+
+contracts (1):
+- **Crypto Marcs (MARCS)** created on Jul 17, 2022 @ [0xe9b91d537c3aa5a3fa87275fbd2e4feaaed69bd0](https://etherscan.io/address/0xe9b91d537c3aa5a3fa87275fbd2e4feaaed69bd0)
+
+stats:
+- count / total supply: 4932 / 4932, num owners:  984
+- total sales:  3043, total volume: Ξ107.48 (~ US$ 139729)
+- average price: Ξ0.04 (~ US$ 45.92)
+- floor price: Ξ0.010 (~ US$ 12.87)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Wrapped Ether (WETH), USD Coin (USDC), ApeCoin (APE)
+
+<details><summary>attribute categories (12):</summary>
+
+- Emotion (3)
+- Face (14)
+- Marc Type (11)
+- Head (38)
+- Neck (21)
+- Nose (3)
+- Ear (5)
+- Lips (5)
+- Facial Hair (18)
+- 1/1 (12)
+- Mouth (8)
+- Eyes (23)
+
+</details>
+
+
 ##  TheJewsNFT
 
 opensea: [thejews-nft](https://opensea.io/collection/thejews-nft) - created on Jul 17, 2022<br>
@@ -84,10 +187,10 @@ contracts (1):
 - **The Jews (JEWS)** created on Jul 17, 2022 @ [0x1e283601f53032d9aac8dc73632f4e482e761c70](https://etherscan.io/address/0x1e283601f53032d9aac8dc73632f4e482e761c70)
 
 stats:
-- count / total supply: 4745 / 4745, num owners:  2140
-- total sales:  3576, total volume: Ξ166.91 (~ US$ 216989)
-- average price: Ξ0.05 (~ US$ 60.68)
-- floor price: Ξ0.004 (~ US$ 4.81)
+- count / total supply: 4745 / 4745, num owners:  2137
+- total sales:  3584, total volume: Ξ166.95 (~ US$ 217029)
+- average price: Ξ0.05 (~ US$ 60.55)
+- floor price: Ξ0.004 (~ US$ 5.20)
 
 fees: seller 10.0%, opensea 2.5%
 
@@ -116,10 +219,10 @@ contracts (1):
 - **The Americans (TAs)** created on Jul 14, 2022 @ [0x4ef3d9eab34783995bc394d569845585ac805ef8](https://etherscan.io/address/0x4ef3d9eab34783995bc394d569845585ac805ef8)
 
 stats:
-- count / total supply: 9994 / 9994, num owners:  2199
-- total sales:  17626, total volume: Ξ1029.00 (~ US$ 1.3 million(s))
-- average price: Ξ0.06 (~ US$ 75.89)
-- floor price: Ξ0.003 (~ US$ 3.90)
+- count / total supply: 9994 / 9994, num owners:  2198
+- total sales:  17631, total volume: Ξ1029.02 (~ US$ 1.3 million(s))
+- average price: Ξ0.06 (~ US$ 75.87)
+- floor price: Ξ0.002 (~ US$ 2.47)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -148,10 +251,10 @@ contracts (1):
 - **Unidentified contract ()** created on Jul 09, 2022 @ [0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1](https://etherscan.io/address/0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1)
 
 stats:
-- count / total supply: 5555 / 5555, num owners:  2103
-- total sales:  11308, total volume: Ξ9680.62 (~ US$ 12.6 million(s))
-- average price: Ξ0.86 (~ US$ 1113)
-- floor price: Ξ0.25 (~ US$ 323.44)
+- count / total supply: 5555 / 5555, num owners:  2097
+- total sales:  11332, total volume: Ξ9688.72 (~ US$ 12.6 million(s))
+- average price: Ξ0.85 (~ US$ 1111)
+- floor price: Ξ0.24 (~ US$ 317.56)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -237,10 +340,10 @@ contracts (1):
 - **V1 Phunks (V1PHNK)** created on Feb 21, 2022 @ [0x3ceb6868bfbf99f6b76fe5bb37343c075677c698](https://etherscan.io/address/0x3ceb6868bfbf99f6b76fe5bb37343c075677c698)
 
 stats:
-- count / total supply: 9497 / 9497, num owners:  1845
-- total sales:  9407, total volume: Ξ142.57 (~ US$ 185336)
-- average price: Ξ0.02 (~ US$ 19.70)
-- floor price: Ξ0.005 (~ US$ 6.50)
+- count / total supply: 9497 / 9497, num owners:  1847
+- total sales:  9454, total volume: Ξ142.87 (~ US$ 185726)
+- average price: Ξ0.02 (~ US$ 19.65)
+- floor price: Ξ0.005 (~ US$ 5.98)
 
 fees: seller 5.0%, opensea 2.5%
 
@@ -278,8 +381,8 @@ contracts (1):
 
 stats:
 - count / total supply: 9996 / 9996, num owners:  1983
-- total sales:  8348, total volume: Ξ710.79 (~ US$ 924022)
-- average price: Ξ0.09 (~ US$ 110.69)
+- total sales:  8349, total volume: Ξ710.81 (~ US$ 924053)
+- average price: Ξ0.09 (~ US$ 110.68)
 - floor price: Ξ0.010 (~ US$ 12.74)
 
 fees: seller 5.0%, opensea 2.5%
@@ -318,10 +421,10 @@ contracts (1):
 - **V1 Cryptopunks (Wrapped) (WPV1)** created on Jan 17, 2022 @ [0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d](https://etherscan.io/address/0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d)
 
 stats:
-- count / total supply: 2603 / 2603, num owners:  783
-- total sales:  1608, total volume: Ξ20600.97 (~ US$ 26.8 million(s))
-- average price: Ξ12.81 (~ US$ 16655)
-- floor price: Ξ4.99 (~ US$ 6487)
+- count / total supply: 2606 / 2606, num owners:  783
+- total sales:  1608, total volume: Ξ20602.37 (~ US$ 26.8 million(s))
+- average price: Ξ12.81 (~ US$ 16656)
+- floor price: Ξ5.29 (~ US$ 6877)
 
 fees: seller -, opensea 2.5%
 
@@ -389,10 +492,10 @@ contracts (1):
 - **WunksV2 (WUNKSV2)** created on Jan 06, 2022 @ [0x301144b43d8dcba1b3e9f70ed7338d0751d700a3](https://etherscan.io/address/0x301144b43d8dcba1b3e9f70ed7338d0751d700a3)
 
 stats:
-- count / total supply: 6000 / 6000, num owners:  2906
-- total sales:  8193, total volume: Ξ975.31 (~ US$ 1.3 million(s))
-- average price: Ξ0.12 (~ US$ 154.75)
-- floor price: Ξ0.009 (~ US$ 11.96)
+- count / total supply: 6000 / 6000, num owners:  2904
+- total sales:  8197, total volume: Ξ975.34 (~ US$ 1.3 million(s))
+- average price: Ξ0.12 (~ US$ 154.68)
+- floor price: Ξ0.010 (~ US$ 12.74)
 
 fees: seller 2.0%, opensea 2.5%
 
@@ -438,10 +541,10 @@ contracts (1):
 - **CryptoApes (CRAP)** created on Dec 30, 2021 @ [0x29714cafe792ef8b8c649451d13c89e21a0d7f5b](https://etherscan.io/address/0x29714cafe792ef8b8c649451d13c89e21a0d7f5b)
 
 stats:
-- count / total supply: 6969 / 6969, num owners:  2035
-- total sales:  7455, total volume: Ξ706.83 (~ US$ 918875)
-- average price: Ξ0.09 (~ US$ 123.26)
-- floor price: Ξ0.04 (~ US$ 45.50)
+- count / total supply: 6969 / 6969, num owners:  2034
+- total sales:  7456, total volume: Ξ706.86 (~ US$ 918921)
+- average price: Ξ0.09 (~ US$ 123.25)
+- floor price: Ξ0.04 (~ US$ 50.70)
 
 fees: seller 6.9%, opensea 2.5%
 
@@ -468,10 +571,10 @@ contracts (1):
 - **Basic Bored Ape Club (BBAC)** created on Dec 17, 2021 @ [0xd16bdccae06dfd701a59103446a17e22e9ca0ef0](https://etherscan.io/address/0xd16bdccae06dfd701a59103446a17e22e9ca0ef0)
 
 stats:
-- count / total supply: 9985 / 9985, num owners:  4591
-- total sales:  13253, total volume: Ξ524.26 (~ US$ 681537)
-- average price: Ξ0.04 (~ US$ 51.43)
-- floor price: Ξ0.009 (~ US$ 11.70)
+- count / total supply: 9985 / 9985, num owners:  4587
+- total sales:  13261, total volume: Ξ524.75 (~ US$ 682176)
+- average price: Ξ0.04 (~ US$ 51.44)
+- floor price: Ξ0.010 (~ US$ 13.00)
 
 fees: seller 7.5%, opensea 2.5%
 
@@ -532,9 +635,9 @@ contracts (1):
 
 stats:
 - count / total supply: 9999 / 9999, num owners:  3995
-- total sales:  14406, total volume: Ξ1456.85 (~ US$ 1.9 million(s))
-- average price: Ξ0.10 (~ US$ 131.47)
-- floor price: Ξ0.007 (~ US$ 9.10)
+- total sales:  14409, total volume: Ξ1456.92 (~ US$ 1.9 million(s))
+- average price: Ξ0.10 (~ US$ 131.45)
+- floor price: Ξ0.004 (~ US$ 5.20)
 
 fees: seller 0.0%, opensea 2.5%
 
@@ -782,9 +885,9 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 opensea: [histopunks](https://opensea.io/collection/histopunks) - created on Aug 29, 2021<br>
 
 stats:
-- count / total supply: 175 / 175, num owners:  64
-- total sales:  103, total volume: Ξ12.76 (~ US$ 16594)
-- average price: Ξ0.12 (~ US$ 161.11)
+- count / total supply: 172 / 172, num owners:  65
+- total sales:  104, total volume: Ξ12.92 (~ US$ 16790)
+- average price: Ξ0.12 (~ US$ 161.44)
 - floor price: Ξ0.15 (~ US$ 195.00)
 
 fees: seller 5.0%, opensea 2.5%
@@ -977,8 +1080,8 @@ opensea: [frontphunks](https://opensea.io/collection/frontphunks) - created on J
 twitter: [CryptoFrontPunk](https://twitter.com/CryptoFrontPunk)<br>
 
 stats:
-- count / total supply: 1000 / 1000, num owners:  185
-- total sales:  478, total volume: Ξ16.01 (~ US$ 20819)
+- count / total supply: 998 / 998, num owners:  184
+- total sales:  478, total volume: Ξ16.02 (~ US$ 20826)
 - average price: Ξ0.03 (~ US$ 43.47)
 - floor price: Ξ0.02 (~ US$ 26.00)
 
@@ -1005,10 +1108,10 @@ contracts (1):
 - **CryptoPhunksV2 (PHUNK)** created on Jun 21, 2021 @ [0xf07468ead8cf26c752c676e43c814fee9c8cf402](https://etherscan.io/address/0xf07468ead8cf26c752c676e43c814fee9c8cf402)
 
 stats:
-- count / total supply: 9978 / 9978, num owners:  2694
-- total sales:  5029, total volume: Ξ1419.33 (~ US$ 1.8 million(s))
-- average price: Ξ0.28 (~ US$ 366.90)
-- floor price: Ξ0.33 (~ US$ 431.60)
+- count / total supply: 9978 / 9978, num owners:  2696
+- total sales:  5033, total volume: Ξ1420.79 (~ US$ 1.8 million(s))
+- average price: Ξ0.28 (~ US$ 366.98)
+- floor price: Ξ0.29 (~ US$ 375.70)
 
 fees: seller -, opensea 2.5%
 
@@ -1060,9 +1163,9 @@ contracts (1):
 - **CryptoPhunks (PHUNK)** created on Jun 14, 2021 @ [0xa82f3a61f002f83eba7d184c50bb2a8b359ca1ce](https://etherscan.io/address/0xa82f3a61f002f83eba7d184c50bb2a8b359ca1ce)
 
 stats:
-- count / total supply: 1002 / 1002, num owners:  237
-- total sales:  392, total volume: Ξ58.66 (~ US$ 76257)
-- average price: Ξ0.15 (~ US$ 194.53)
+- count / total supply: 1002 / 1002, num owners:  238
+- total sales:  393, total volume: Ξ58.76 (~ US$ 76387)
+- average price: Ξ0.15 (~ US$ 194.37)
 - floor price: Ξ0.20 (~ US$ 253.50)
 
 fees: seller -, opensea 2.5%
@@ -1320,9 +1423,9 @@ web:  <http://thepixelportraits.me><br>
 twitter: [thepxlportraits](https://twitter.com/thepxlportraits)<br>
 
 stats:
-- count / total supply: 998 / 998, num owners:  548
-- total sales:  1029, total volume: Ξ104.36 (~ US$ 135667)
-- average price: Ξ0.10 (~ US$ 131.84)
+- count / total supply: 998 / 998, num owners:  547
+- total sales:  1030, total volume: Ξ104.37 (~ US$ 135680)
+- average price: Ξ0.10 (~ US$ 131.73)
 - floor price: Ξ0.50 (~ US$ 650.00)
 
 fees: seller 10.0%, opensea 2.5%
@@ -1500,7 +1603,7 @@ twitter: [UnofficialPunks](https://twitter.com/UnofficialPunks)<br>
 
 stats:
 - count / total supply: 99 / 99, num owners:  82
-- total sales:  167, total volume: Ξ144.31 (~ US$ 187599)
+- total sales:  167, total volume: Ξ144.73 (~ US$ 188149)
 - average price: Ξ0.86 (~ US$ 1121)
 - floor price: Ξ0.75 (~ US$ 975.00)
 
@@ -1532,9 +1635,9 @@ contracts (1):
 - **CryptoPunks (PUNK)** created on Jan 23, 2018 @ [0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb)
 
 stats:
-- count / total supply: 9998 / 9998, num owners:  3599
-- total sales:  21598, total volume: Ξ1001987.83 (~ US$ 1302.6 million(s))
-- average price: Ξ46.39 (~ US$ 60310)
+- count / total supply: 9998 / 9998, num owners:  3602
+- total sales:  21602, total volume: Ξ1003037.33 (~ US$ 1303.9 million(s))
+- average price: Ξ46.43 (~ US$ 60362)
 - floor price: ???
 
 fees: seller -, opensea 2.5%

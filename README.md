@@ -13,9 +13,10 @@ Crypto Collectibles Series -
 
 ## (Auto-Generated) Punk (Pixel Art) Collection Reports from (Cached) Opensea Datasets
 
-- [Punk Collections Timeline (in Reverse Chronological Order)](COLLECTIONS.md)
+- [Timeline Punk Collections  (in Reverse Chronological Order)](TIMELINE.md)
 - [Top Punk Collections by All-Time Sales Volume (in Ξ)](TOP.md)
 - [Trending Punk Collections (in 30d/7d/1d Sales Volume)](TRENDING.md)
+- [Punk Collections in Detail](COLLECTIONS.md)
 
 
 See the scripts in the /sandbox directory to update the (cached)

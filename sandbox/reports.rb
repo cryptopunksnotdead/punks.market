@@ -8,19 +8,21 @@ $LOAD_PATH.unshift( "../../pixelart/artbase/artbase-opensea/lib" )
 require 'artbase-opensea'
 
 
-report = Opensea::TrendingCollectionsReport.new
-buf = report.build( './cache' )
-write_text( "./TRENDING.md", buf )
+
+report = Opensea::TimelineCollectionsReport.new( './cache' )
+report.save( './TIMELINE.md' )
 
 
-report = Opensea::TopCollectionsReport.new
-buf = report.build( './cache' )
-write_text( "./TOP.md", buf )
+report = Opensea::TrendingCollectionsReport.new( './cache' )
+report.save( './TRENDING.md' )
 
 
-report = Opensea::CollectionsReport.new
-buf = report.build( './cache' )
-write_text( "./COLLECTIONS.md", buf )
+report = Opensea::TopCollectionsReport.new( './cache' )
+report.save( './TOP.md' )
+
+
+report = Opensea::CollectionsReport.new( './cache' )
+report.save( './COLLECTIONS.md' )
 
 
 puts "bye"

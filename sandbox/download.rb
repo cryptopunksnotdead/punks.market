@@ -10,35 +10,6 @@ require 'artbase-opensea'
 
 
 
-def download( slugs, delay_in_s: 2 )
-
-  cache_dir =  './cache'
-
-slugs.each do |slug|
-
-  puts
-  puts "==> fetching #{slug}..."
-
-  raw = Opensea.collection( slug )
-
-  ## note: simplify result
-  ##  remove nested 'collection' level
-
-  data = raw['collection']
-
-  ## remove editors  - do not care for now
-  data.delete( 'editors' )
-
-
-  path = "#{cache_dir}/#{slug}/collection.json"
-
-  write_json( path, data )
-
-  puts "  sleeping #{delay_in_s}s..."
-  sleep( delay_in_s )
-end
-end
-
 
 ethereum_slugs = [
   'cryptopunks',
@@ -55,7 +26,12 @@ ethereum_slugs = [
   'thejews-nft',
   'the-americans-nft',
   'phunksinblack',
+
+   'crypto-marcs',
+  'punked-goblins',
+  'punk-ape-yacht-club-v2',
 ]
+
 
 more_ethereum_slugs = %w[
 ]
@@ -119,13 +95,12 @@ pp slugs
 
 
 
-slugs = %w[
-  crypto-marcs
-  punked-goblins
-]
+# slugs = %w[
+# ]
 
 
-download( slugs )
+cache = OpenSea::Cache.new( './cache' )
+cache.download( slugs )
 
 
 puts "bye"
