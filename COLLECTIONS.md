@@ -64,6 +64,69 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  Phunk Aliens Origins
+
+opensea: [phunk-aliens-origins](https://opensea.io/collection/phunk-aliens-origins) - created on Sep 29, 2022<br>
+twitter: [PhunkAliens](https://twitter.com/PhunkAliens)<br>
+
+stats:
+- count / total supply: 890 / 890, num owners:  108
+- total sales:  643, total volume: Ξ3.20 (~ US$ 4164)
+- average price: Ξ0.005 (~ US$ 6.48)
+- floor price: Ξ0.004 (~ US$ 4.88)
+
+fees: seller -, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (9):</summary>
+
+- BACKGROUND (5)
+- SKIN (5)
+- NECK (4)
+- EARRING (4)
+- EYES (14)
+- BOWLER HAT (1)
+- MOUTH (14)
+- HEAD (24)
+- LEGENDARY 1/1 (6)
+
+</details>
+
+
+##  Phunk APE Origins
+
+opensea: [phunk-ape-origins](https://opensea.io/collection/phunk-ape-origins) - created on Sep 23, 2022<br>
+web:  <https://app.indelible.xyz/mint/0x9b66d03fc1eee61a512341058e95f1a68dc3a913><br>
+twitter: [PhunkAPEorigins](https://twitter.com/PhunkAPEorigins)<br>
+
+contracts (1):
+- **Phunk APE Origins (PAO)** created on Sep 23, 2022 @ [0x9b66d03fc1eee61a512341058e95f1a68dc3a913](https://etherscan.io/address/0x9b66d03fc1eee61a512341058e95f1a68dc3a913)
+
+stats:
+- count / total supply: 5000 / 5000, num owners:  1568
+- total sales:  7027, total volume: Ξ366.33 (~ US$ 476234)
+- average price: Ξ0.05 (~ US$ 67.77)
+- floor price: Ξ0.02 (~ US$ 21.84)
+
+fees: seller -, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (8):</summary>
+
+- Mouth (10)
+- Neck (8)
+- Earring (8)
+- Eyes (20)
+- Head (40)
+- Ape (13)
+- Background (5)
+- Future Origin (8)
+
+</details>
+
+
 ##  PUNK APES YC
 
 opensea: [punk-ape-yacht-club-v2](https://opensea.io/collection/punk-ape-yacht-club-v2) - created on Sep 14, 2022<br>
@@ -201,6 +264,73 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 - Mouth Prop (5)
 - Eyes (15)
 - Nose (2)
+
+</details>
+
+
+##  The Official Nigerians NFT
+
+opensea: [nigeriansnft](https://opensea.io/collection/nigeriansnft) - created on Jul 23, 2022<br>
+web:  <https://www.nigeriansnft.com/><br>
+twitter: [NigeriansNFT](https://twitter.com/NigeriansNFT)<br>
+
+contracts (1):
+- **The Nigerians (NIGERIANS)** created on Jul 23, 2022 @ [0x9f35425c2ef3616dd024d866082e0b61023fbfe1](https://etherscan.io/address/0x9f35425c2ef3616dd024d866082e0b61023fbfe1)
+
+stats:
+- count / total supply: 5553 / 5553, num owners:  1688
+- total sales:  2455, total volume: Ξ11.33 (~ US$ 14731)
+- average price: Ξ0.005 (~ US$ 6.00)
+- floor price: Ξ0.0002 (~ US$ 0.26)
+
+fees: seller 8.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (10):</summary>
+
+- Background (15)
+- Skin (15)
+- Mouth (13)
+- Beard (21)
+- Head (49)
+- Eyewear (32)
+- Agbada (20)
+- Neckwear (16)
+- Earring (15)
+- Smoke (15)
+
+</details>
+
+
+##  The Indians Official
+
+opensea: [theindiansofficial](https://opensea.io/collection/theindiansofficial) - created on Jul 21, 2022<br>
+web:  <http://theindiansnft.com/publicmint/><br>
+twitter: [TheIndians_NFT](https://twitter.com/TheIndians_NFT)<br>
+
+contracts (1):
+- **The Indians NFT (TI)** created on Jul 20, 2022 @ [0xe90c10611d3ea7539f76913d112db579aae839e6](https://etherscan.io/address/0xe90c10611d3ea7539f76913d112db579aae839e6)
+
+stats:
+- count / total supply: 3333 / 3333, num owners:  2511
+- total sales:  453, total volume: Ξ3.24 (~ US$ 4209)
+- average price: Ξ0.007 (~ US$ 9.29)
+- floor price: Ξ0.00021 (~ US$ 0.27)
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- Background (32)
+- Caste (23)
+- Mouth (23)
+- Accessories (28)
+- Head (47)
+- Eyes (30)
+- Belly (53)
 
 </details>
 
@@ -366,6 +496,38 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  CryptoPunksMom
+
+opensea: [cryptopunksmom](https://opensea.io/collection/cryptopunksmom) - created on May 04, 2022<br>
+web:  <https://www.mintables.club/m/cryptopunksmom><br>
+
+contracts (1):
+- **CryptoPunksMom (MOM)** created on May 03, 2022 @ [0x2b634b336531424826e6000af3c54a7d821b49d3](https://etherscan.io/address/0x2b634b336531424826e6000af3c54a7d821b49d3)
+
+stats:
+- count / total supply: 2845 / 2845, num owners:  640
+- total sales:  0
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (10):</summary>
+
+- Background (40)
+- Skin (18)
+- Eyes (26)
+- Lipstick (33)
+- Hair (100)
+- Headwear (8)
+- Earring (8)
+- Eyewear (18)
+- Outifit (59)
+- Accessory (4)
+
+</details>
+
+
 ##  BinaryApes
 
 opensea: [binaryapes](https://opensea.io/collection/binaryapes) - created on Feb 21, 2022<br>
@@ -511,6 +673,43 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  PunkForce
+
+opensea: [punkforce](https://opensea.io/collection/punkforce) - created on Jan 26, 2022<br>
+web:  <https://thepunkforce.com/><br>
+twitter: [ThePunkForce](https://twitter.com/ThePunkForce)<br>
+
+contracts (1):
+- **PunkForce (Force)** created on Jan 25, 2022 @ [0x8218b8cfdfa0e7c55a90c693a9c55e3409ee155f](https://etherscan.io/address/0x8218b8cfdfa0e7c55a90c693a9c55e3409ee155f)
+
+stats:
+- count / total supply: 3498 / 3498, num owners:  1618
+- total sales:  1176, total volume: Ξ46.94 (~ US$ 61023)
+- average price: Ξ0.04 (~ US$ 51.89)
+- floor price: Ξ0.006 (~ US$ 8.45)
+
+fees: seller -, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (12):</summary>
+
+- Base (2)
+- Background (7)
+- Skin (16)
+- Marks (30)
+- Type (16)
+- Head (149)
+- Beard (24)
+- Mouth Prop (7)
+- Neck (6)
+- Eyes (48)
+- Accessory (10)
+- Mouth (6)
+
+</details>
+
+
 ##  CryptoPunks V1 (wrapped)
 
 opensea: [official-v1-punks](https://opensea.io/collection/official-v1-punks) - created on Jan 17, 2022<br>
@@ -630,6 +829,79 @@ fees: seller 10.0%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
 
+
+
+##  DivinePunks
+
+opensea: [divinepunks](https://opensea.io/collection/divinepunks) - created on Jan 17, 2022<br>
+web:  <https://punks.heeldivine.com/><br>
+twitter: [DivinePunksNFT](https://twitter.com/DivinePunksNFT)<br>
+
+contracts (1):
+- **DivinePunks (DIP)** created on Jan 03, 2022 @ [0xc2cdb10342fa908137b6a4d2ac6a8eced88b61b2](https://etherscan.io/address/0xc2cdb10342fa908137b6a4d2ac6a8eced88b61b2)
+
+stats:
+- count / total supply: 161 / 161, num owners:  55
+- total sales:  0
+
+fees: seller 6.7%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (13):</summary>
+
+- Background (7)
+- Base (4)
+- Cloak (4)
+- Eyebrows (5)
+- Eyes (8)
+- Facepaint (6)
+- Forehead (5)
+- Hair (21)
+- Headwear (12)
+- Lips (5)
+- Mask (7)
+- Signature haircut (1)
+- Tattoo (4)
+
+</details>
+
+
+##  ExpansionPhunks
+
+opensea: [expansionphunks](https://opensea.io/collection/expansionphunks) - created on Dec 30, 2021<br>
+web:  <http://xphunks.org><br>
+twitter: [xPhunks](https://twitter.com/xPhunks)<br>
+
+contracts (1):
+- **ExpansionPhunks (PHUNX)** created on Dec 30, 2021 @ [0x71eb5c179ceb640160853144cbb8df5bd24ab5cc](https://etherscan.io/address/0x71eb5c179ceb640160853144cbb8df5bd24ab5cc)
+
+stats:
+- count / total supply: 9988 / 9988, num owners:  2018
+- total sales:  5022, total volume: Ξ201.13 (~ US$ 261466)
+- average price: Ξ0.04 (~ US$ 52.06)
+- floor price: Ξ0.006 (~ US$ 7.80)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (12):</summary>
+
+- Attribute Count (9)
+- Blemish (3)
+- Ear (1)
+- Eyes (16)
+- Facial Hair (12)
+- Hair (41)
+- Mouth (6)
+- Mouth Prop (4)
+- Neck Accessory (3)
+- Nose (1)
+- Skin Tone (7)
+- Type (6)
+
+</details>
 
 
 ##  CryptoApes Official
@@ -966,6 +1238,60 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 </details>
 
 
+##  HivePunks
+
+opensea: [hivepunks](https://opensea.io/collection/hivepunks) - created on Oct 16, 2021<br>
+web:  <https://etherscan.io/address/0x887ec3a5419d2836de4b13cedf34ac3ed3ec1442#writeContract><br>
+twitter: [lostpunks](https://twitter.com/lostpunks)<br>
+
+contracts (1):
+- **HivePunks (HIVE)** created on Oct 16, 2021 @ [0x887ec3a5419d2836de4b13cedf34ac3ed3ec1442](https://etherscan.io/address/0x887ec3a5419d2836de4b13cedf34ac3ed3ec1442)
+
+stats:
+- count / total supply: 5 / 5, num owners:  5
+- total sales:  0
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (4):</summary>
+
+- CryptoPunk # (2)
+- # Traits (2)
+- Accessory (12)
+- Type (2)
+
+</details>
+
+
+##  Clown Town Society
+
+opensea: [clowntownsociety](https://opensea.io/collection/clowntownsociety) - created on Oct 09, 2021<br>
+web:  <https://clowntown.io><br>
+twitter: [lostpunks](https://twitter.com/lostpunks)<br>
+
+contracts (1):
+- **ClownTownSociety (CLWN)** created on Oct 09, 2021 @ [0x590bbd9c960a2f081311007b912e441d3588e136](https://etherscan.io/address/0x590bbd9c960a2f081311007b912e441d3588e136)
+
+stats:
+- count / total supply: 32 / 32, num owners:  22
+- total sales:  0
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (4):</summary>
+
+- CryptoPunk # (2)
+- # Traits (2)
+- Accessory (36)
+- Type (8)
+
+</details>
+
+
 ##  Goodbye Punks
 
 opensea: [goodbye-punks](https://opensea.io/collection/goodbye-punks) - created on Oct 03, 2021<br>
@@ -986,6 +1312,142 @@ payments (2): Ether (ETH), Wrapped Ether (WETH)
 
 - Accessory (80)
 - Type (5)
+
+</details>
+
+
+##  Lost Punk Society
+
+opensea: [lostpunksociety](https://opensea.io/collection/lostpunksociety) - created on Oct 02, 2021<br>
+web:  <https://lostpunksociety.eth.link/><br>
+twitter: [lostpunks](https://twitter.com/lostpunks)<br>
+
+contracts (1):
+- **LostPunkSociety (LPS)** created on Oct 02, 2021 @ [0xa583beacdf3ed3808402f8db4f6628a7e1c6cec6](https://etherscan.io/address/0xa583beacdf3ed3808402f8db4f6628a7e1c6cec6)
+
+stats:
+- count / total supply: 21 / 21, num owners:  16
+- total sales:  7, total volume: Ξ2.60 (~ US$ 3380)
+- average price: Ξ0.37 (~ US$ 482.86)
+- floor price: ???
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (6):</summary>
+
+- Father (2)
+- Generation (2)
+- Mother (2)
+- # Traits (2)
+- Accessory (31)
+- Type (6)
+
+</details>
+
+
+##  MineablePunks
+
+opensea: [mineablepunks](https://opensea.io/collection/mineablepunks) - created on Sep 23, 2021<br>
+web:  <http://mpunks.org><br>
+twitter: [mineable_nft](https://twitter.com/mineable_nft)<br>
+
+contracts (1):
+- **MineablePunks (MPUNKS)** created on Sep 23, 2021 @ [0x595a8974c1473717c4b5d456350cd594d9bda687](https://etherscan.io/address/0x595a8974c1473717c4b5d456350cd594d9bda687)
+
+stats:
+- count / total supply: 1634 / 1634, num owners:  438
+- total sales:  1181, total volume: Ξ340.77 (~ US$ 443007)
+- average price: Ξ0.29 (~ US$ 375.11)
+- floor price: Ξ0.03 (~ US$ 39.00)
+
+fees: seller -, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (12):</summary>
+
+- base (11)
+- lips (3)
+- face (3)
+- ear (1)
+- head (41)
+- mouth (4)
+- eyes (16)
+- beard (12)
+- neck (3)
+- emotion (2)
+- teeth (1)
+- nose (1)
+
+</details>
+
+
+##  CurrencyPunks
+
+opensea: [currencypunks](https://opensea.io/collection/currencypunks) - created on Sep 21, 2021<br>
+web:  <https://artcodenft.com/><br>
+twitter: [currencypunks](https://twitter.com/currencypunks)<br>
+
+contracts (1):
+- **CurrencyPunks (CUPU)** created on Sep 21, 2021 @ [0xe433e90c5b898819544346e73a501d9e8013dbd8](https://etherscan.io/address/0xe433e90c5b898819544346e73a501d9e8013dbd8)
+
+stats:
+- count / total supply: 9992 / 9992, num owners:  5796
+- total sales:  6665, total volume: Ξ325.96 (~ US$ 423747)
+- average price: Ξ0.05 (~ US$ 63.58)
+- floor price: Ξ0.008 (~ US$ 10.14)
+
+fees: seller -, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (14):</summary>
+
+- Black dots (2)
+- Blue dots (2)
+- Green dots (2)
+- Number of dot inconsistencies (2)
+- Number of dots (2)
+- Number of paint drops (2)
+- Orange dots (2)
+- Pink dots (2)
+- Purple dots (2)
+- Red dots (2)
+- White dots (2)
+- Yellow dots (2)
+- accessory (87)
+- type (5)
+
+</details>
+
+
+##  CryptoRalph
+
+opensea: [cryptoralph](https://opensea.io/collection/cryptoralph) - created on Sep 13, 2021<br>
+web:  <https://cryptoralph.io><br>
+twitter: [CryptoRalphNFT](https://twitter.com/CryptoRalphNFT)<br>
+
+stats:
+- count / total supply: 1089 / 1089, num owners:  219
+- total sales:  295, total volume: Ξ4.52 (~ US$ 5874)
+- average price: Ξ0.02 (~ US$ 19.91)
+- floor price: Ξ0.02 (~ US$ 24.70)
+
+fees: seller 5.3%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (7):</summary>
+
+- Age (4)
+- Beard (4)
+- Face (10)
+- Fun (20)
+- Glasses (11)
+- Hair (24)
+- Type (4)
 
 </details>
 
@@ -1024,6 +1486,43 @@ payments (5): Ether (ETH), Wrapped Ether (WETH), USD Coin (USDC), Wrapped BTC (W
 </details>
 
 
+##  PissPunks
+
+opensea: [pisspunks](https://opensea.io/collection/pisspunks) - created on Sep 05, 2021<br>
+web:  <http://pisspunks.com><br>
+twitter: [BasisCoppola](https://twitter.com/BasisCoppola)<br>
+
+contracts (1):
+- **Piss Punks (PSSPNKS)** created on Sep 05, 2021 @ [0x164915306034939e89667ba04d400a6a19b820a1](https://etherscan.io/address/0x164915306034939e89667ba04d400a6a19b820a1)
+
+stats:
+- count / total supply: 9976 / 9976, num owners:  1880
+- total sales:  776, total volume: Ξ10.77 (~ US$ 14006)
+- average price: Ξ0.014 (~ US$ 18.05)
+- floor price: Ξ0.007 (~ US$ 8.97)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (12):</summary>
+
+- background (1)
+- Face Shape (6)
+- Skin (12)
+- Facial Hair Paint (46)
+- Glasses (18)
+- Hair & Hats (303)
+- Misc (21)
+- Cigarettes (17)
+- Halo (2)
+- Jesus (2)
+- Thorns (3)
+- Jesus Trait Count (3)
+
+</details>
+
+
 ##  The Crypto Genius
 
 opensea: [thecryptogenius](https://opensea.io/collection/thecryptogenius) - created on Sep 02, 2021<br>
@@ -1038,6 +1537,65 @@ fees: seller 10.0%, opensea 2.5%
 
 payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
+
+
+##  APE PUNKS NFTS
+
+opensea: [apepunksnft](https://opensea.io/collection/apepunksnft) - created on Sep 01, 2021<br>
+twitter: [apepunksnft](https://twitter.com/apepunksnft)<br>
+
+contracts (1):
+- **ApePunks (APEK)** created on Sep 01, 2021 @ [0x97f2eed9a7d3edbbca56120ed26795a5467f57fc](https://etherscan.io/address/0x97f2eed9a7d3edbbca56120ed26795a5467f57fc)
+
+stats:
+- count / total supply: 1859 / 1859, num owners:  687
+- total sales:  109, total volume: Ξ2.62 (~ US$ 3401)
+- average price: Ξ0.02 (~ US$ 31.20)
+- floor price: Ξ0.008 (~ US$ 9.75)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (2):</summary>
+
+- Type (5)
+- Accessory (87)
+
+</details>
+
+
+##  Cryptorastas Collection
+
+opensea: [cryptorastas-collection](https://opensea.io/collection/cryptorastas-collection) - created on Aug 29, 2021<br>
+web:  <https://www.cryptorastas.com/><br>
+twitter: [cryptorastas](https://twitter.com/cryptorastas)<br>
+
+contracts (1):
+- **Cryptorastas (RASTA)** created on Aug 29, 2021 @ [0x07cd221b2fe54094277a2f4e1c1bc6df14e63678](https://etherscan.io/address/0x07cd221b2fe54094277a2f4e1c1bc6df14e63678)
+
+stats:
+- count / total supply: 10419 / 10419, num owners:  3750
+- total sales:  5175, total volume: Ξ310.69 (~ US$ 403903)
+- average price: Ξ0.06 (~ US$ 78.05)
+- floor price: Ξ0.03 (~ US$ 40.30)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (6): SAND (SAND), Ether (ETH), Wrapped Ether (WETH), USD Coin (USDC), Burn - Pp8ocxhehA (ASH), ApeCoin (APE)
+
+<details><summary>attribute categories (8):</summary>
+
+- Unity (4)
+- Hair Style (63)
+- Beard (34)
+- Glasses (16)
+- Hat (62)
+- Smoke (12)
+- Earring (9)
+- Accessory (10)
+
+</details>
 
 
 ##  HistoPunks
@@ -1064,6 +1622,39 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - Male (1)
 - Legendary (3)
 - Special (1)
+
+</details>
+
+
+##  International Punks.
+
+opensea: [international-punks-](https://opensea.io/collection/international-punks-) - created on Aug 27, 2021<br>
+web:  <https://internationalpunks.com><br>
+twitter: [intl_punks](https://twitter.com/intl_punks)<br>
+
+contracts (1):
+- **International Punks (INTPUNKS)** created on Aug 27, 2021 @ [0x7b89c26ff23be91695bdafb2fc80ab919f2d2a4e](https://etherscan.io/address/0x7b89c26ff23be91695bdafb2fc80ab919f2d2a4e)
+
+stats:
+- count / total supply: 4715 / 4715, num owners:  1308
+- total sales:  269, total volume: Ξ7.08 (~ US$ 9198)
+- average price: Ξ0.03 (~ US$ 34.19)
+- floor price: Ξ0.010 (~ US$ 13.00)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (8):</summary>
+
+- Type (5)
+- Eye (14)
+- Headwear (39)
+- Mouth (8)
+- Background (5)
+- Face (3)
+- Face_hair (13)
+- Jewellery (3)
 
 </details>
 
@@ -1116,6 +1707,27 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - Necklace (3)
 
 </details>
+
+
+##  ExpansionPunks
+
+opensea: [expansionpunks](https://opensea.io/collection/expansionpunks) - created on Aug 15, 2021<br>
+web:  <https://expansionpunks.com/><br>
+twitter: [ExpansionPunks](https://twitter.com/ExpansionPunks)<br>
+
+contracts (1):
+- **ExpansionPunks (xPUNK)** created on Aug 15, 2021 @ [0x0d0167a823c6619d430b1a96ad85b888bcf97c37](https://etherscan.io/address/0x0d0167a823c6619d430b1a96ad85b888bcf97c37)
+
+stats:
+- count / total supply: 9994 / 9994, num owners:  3242
+- total sales:  12287, total volume: Ξ3577.91 (~ US$ 4.7 million(s))
+- average price: Ξ0.29 (~ US$ 378.55)
+- floor price: Ξ0.03 (~ US$ 42.90)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
 
 
 ##  Figure Punks
@@ -1184,6 +1796,35 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  PhilipPhunks
+
+opensea: [philip-phunks](https://opensea.io/collection/philip-phunks) - created on Jul 31, 2021<br>
+twitter: [pphunks](https://twitter.com/pphunks)<br>
+
+contracts (1):
+- **PhilipPhunks (PPH)** created on Jul 31, 2021 @ [0xa3915c387ccebfd451343a7768e3c2cfb6fdad48](https://etherscan.io/address/0xa3915c387ccebfd451343a7768e3c2cfb6fdad48)
+
+stats:
+- count / total supply: 101 / 101, num owners:  40
+- total sales:  79, total volume: Ξ1.95 (~ US$ 2530)
+- average price: Ξ0.02 (~ US$ 32.02)
+- floor price: ???
+
+fees: seller 7.5%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (5):</summary>
+
+- Accessory (18)
+- Eyes (15)
+- Face (20)
+- Head (21)
+- Phunk Type (8)
+
+</details>
+
+
 ##  CinePunks
 
 opensea: [cinepunkss](https://opensea.io/collection/cinepunkss) - created on Jul 31, 2021<br>
@@ -1205,6 +1846,52 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - background (15)
 - movie (234)
 - type (13)
+
+</details>
+
+
+##  COVIDPunks!
+
+opensea: [covidpunksnft](https://opensea.io/collection/covidpunksnft) - created on Jul 31, 2021<br>
+web:  <https://covidpunks.com><br>
+twitter: [COVIDPunksNFT](https://twitter.com/COVIDPunksNFT)<br>
+
+contracts (1):
+- **COVIDPunks (PUNK-19)** created on Jul 20, 2021 @ [0xe4cfae3aa41115cb94cff39bb5dbae8bd0ea9d41](https://etherscan.io/address/0xe4cfae3aa41115cb94cff39bb5dbae8bd0ea9d41)
+
+stats:
+- count / total supply: 9992 / 9992, num owners:  3793
+- total sales:  10752, total volume: Ξ1810.72 (~ US$ 2.4 million(s))
+- average price: Ξ0.17 (~ US$ 218.93)
+- floor price: Ξ0.008 (~ US$ 10.92)
+
+fees: seller 2.5%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (21):</summary>
+
+- Hair (26)
+- Facial Hair (12)
+- Eyes (16)
+- Sex (2)
+- Mask (17)
+- Vaccine Status (2)
+- Vaccine (4)
+- COVID Status (2)
+- Headgear (15)
+- Accessory (3)
+- Mouth (6)
+- Symptom (6)
+- Vice (3)
+- Complexion (3)
+- Necklace (3)
+- Species (3)
+- Health (1)
+- Attributes (1)
+- Special Status (1)
+- Rarity (7)
+- ??? (1)
 
 </details>
 
@@ -1296,6 +1983,34 @@ payments (5): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  DystoPunks
+
+opensea: [dystopunks](https://opensea.io/collection/dystopunks) - created on Jun 20, 2021<br>
+web:  <https://dystopunks.net/><br>
+twitter: [DystoPunks](https://twitter.com/DystoPunks)<br>
+
+contracts (1):
+- **DystoPunks V2 (DYSTO)** created on Jun 20, 2021 @ [0xbea8123277142de42571f1fac045225a1d347977](https://etherscan.io/address/0xbea8123277142de42571f1fac045225a1d347977)
+
+stats:
+- count / total supply: 2077 / 2077, num owners:  670
+- total sales:  3423, total volume: Ξ6173.87 (~ US$ 8.0 million(s))
+- average price: Ξ1.80 (~ US$ 2345)
+- floor price: Ξ0.49 (~ US$ 637.00)
+
+fees: seller 5.0%, opensea 2.5%
+
+payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+<details><summary>attribute categories (3):</summary>
+
+- Type (5)
+- Attribute (60)
+- Cyborg (1)
+
+</details>
+
+
 ##  DogePunks.
 
 opensea: [dogepunks-collection](https://opensea.io/collection/dogepunks-collection) - created on Jun 15, 2021<br>
@@ -1365,6 +2080,23 @@ stats:
 fees: seller 10.0%, opensea 2.5%
 
 payments (2): Ether (ETH), Wrapped Ether (WETH)
+
+
+
+##  Goblin Punks
+
+opensea: [goblin-punks](https://opensea.io/collection/goblin-punks) - created on Apr 27, 2021<br>
+twitter: [Gossip_Goblin](https://twitter.com/Gossip_Goblin)<br>
+
+stats:
+- count / total supply: 99 / 99, num owners:  69
+- total sales:  197, total volume: Ξ34.40 (~ US$ 44716)
+- average price: Ξ0.17 (~ US$ 226.98)
+- floor price: Ξ0.69 (~ US$ 897.00)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
 
 
 
@@ -1497,6 +2229,32 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 </details>
 
 
+##  ReggaetonPunks
+
+opensea: [reggaetonpunks](https://opensea.io/collection/reggaetonpunks) - created on Mar 16, 2021<br>
+web:  <http://www.reggaetonpunks.com><br>
+twitter: [reggaetonpunks](https://twitter.com/reggaetonpunks)<br>
+
+stats:
+- count / total supply: 100 / 100, num owners:  43
+- total sales:  95, total volume: Ξ12.88 (~ US$ 16741)
+- average price: Ξ0.14 (~ US$ 176.23)
+- floor price: Ξ0.11 (~ US$ 144.43)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (4):</summary>
+
+- Character (86)
+- Background Color (7)
+- Accessory Color (16)
+- Has Music (2)
+
+</details>
+
+
 ##  ScifiPunks
 
 opensea: [scifipunks](https://opensea.io/collection/scifipunks) - created on Mar 16, 2021<br>
@@ -1548,6 +2306,37 @@ payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin 
 - Occuptation (1)
 - Accessorry (1)
 - Names (1)
+
+</details>
+
+
+##  MariachiPunks
+
+opensea: [mariachipunks](https://opensea.io/collection/mariachipunks) - created on Mar 16, 2021<br>
+web:  <https://mariachipunks.com><br>
+twitter: [MariachiPunks](https://twitter.com/MariachiPunks)<br>
+
+stats:
+- count / total supply: 10 / 10, num owners:  7
+- total sales:  8, total volume: Ξ2.16 (~ US$ 2808)
+- average price: Ξ0.27 (~ US$ 351.00)
+- floor price: Ξ0.27 (~ US$ 351.00)
+
+fees: seller 10.0%, opensea 2.5%
+
+payments (4): Ether (ETH), Dai Stablecoin (DAI), Wrapped Ether (WETH), USD Coin (USDC)
+
+<details><summary>attribute categories (9):</summary>
+
+- Beliefs (1)
+- Drinks (1)
+- Instrument (7)
+- Name (10)
+- Occupation (1)
+- Other (10)
+- Shows played (5)
+- Shows Played (5)
+- Violin (1)
 
 </details>
 
