@@ -13,4 +13,7 @@ o4/
 cache/
 
 
+####
+#  exclude   dotenv
+.env
 
