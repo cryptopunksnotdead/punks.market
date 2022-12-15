@@ -6,29 +6,57 @@
 
 
 require 'ethlite'
+require 'etherscan-lite'
 require 'bytes'
 require 'date'
 require 'time'
 
 
 
+
+module Alchemy
+  class Configuration
+    #######################
+    ## accessors
+    ##  todo/check - change to apikey or api_key or such - why? why not?
+    def key()       @key ||= ENV['ALCHEMY_KEY']; end
+    def key=(value) @key = value; end
+  end # class Configuration
+
+  ## lets you use
+  ##   Alchemy.configure do |config|
+  ##      config.key = 'xxxx'
+  ##   end
+  def self.configure() yield( config ); end
+  def self.config()    @config ||= Configuration.new;  end
+
+
+  BASE_NFT = 'https://eth-mainnet.g.alchemy.com/nft/v2/{key}'
+
+  def self.owners_for_collection( contractaddress )
+    query = BASE_NFT.sub( '{key}', config.key )
+    query += "/getOwnersForCollection/"
+    query += "?contractAddress=#{contractaddress}"
+
+    call( query )
+  end
+
+
+  def self.call( src )
+    res = Webclient.get(src )
+    res.json
+  end
+end  # module Alchemy
+
+
+
+
 PUNKS_ADDRESS = "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"
 
 
+
 def update_owners
-
-  ## alchemy_uri = ENV[ 'ALCHEMY_URI' ]
-  ## pp alchemy_uri
-  alchemy_key = ENV[ 'ALCHEMY_KEY' ]
-  pp alchemy_key
-
-  alchemy_query =
-"https://eth-mainnet.g.alchemy.com/nft/v2/#{alchemy_key}/getOwnersForCollection/?contractAddress="
-  pp alchemy_query
-
-  alchemy_query += PUNKS_ADDRESS
-
-  data = Webclient.get(alchemy_query).json
+  data = Alchemy.owners_for_collection( PUNKS_ADDRESS )
 
   ownerAddresses = data['ownerAddresses']
 
@@ -44,37 +72,11 @@ ownerAddresses = read_json( "./sandbox-lost/owners.json" )
 puts "  #{ownerAddresses.size} address(es)"
 
 
-ETHERSCAN_KEY = ENV['ETHERSCAN_KEY']
-pp ETHERSCAN_KEY
-
-
-
 
 YEARS_DORMANT = 1
 
-def _more_than_n_years_ago( timestamp )
-  time_between = Time.now - Time.at( timestamp )
-  time_between_in_days = time_between  / (60 * 60 * 24)
-  puts "  #{time_between_in_days} day(s)  - #{Time.at( timestamp )}"
-  time_between_in_days > (YEARS_DORMANT * 365)
-end
 
-def _get_internal_txns( address )
-  etherscan =  "https://api.etherscan.io/api?module=account&action=tokentx&page=1&offset=100&startblock=0&endblock=99999999&sort=desc"
-  etherscan += "&contractaddress=" + PUNKS_ADDRESS
-  etherscan += "&apikey=" + ETHERSCAN_KEY
-  etherscan += "&address=" + address
 
-  Webclient.get(etherscan).json
-end
-
-def _interal_txn_more_than_n_years_ago( address )
-  data = _get_internal_txns( address )
-  txns = data['result']
-   # note: timestamp is a string in json responspe
-  timestamp = txns[0]['timeStamp'].to_i
-  _more_than_n_years_ago( timestamp )
-end
 
 
 lostAddresses = %w[
@@ -121,43 +123,51 @@ delay_in_s = 0.5
 addresses = lostAddresses
 
 addresses.each_with_index do |address,i|
+    puts "  sleeping #{delay_in_s}s..."
+    sleep( delay_in_s )
 
     puts
     puts "==> [#{i}] query #{address}..."
-    etherscan  = "https://api.etherscan.io/api?module=account&action=txlist&startblock=0&endblock=99999999&page=1&offset=10&sort=desc"
-    etherscan += "&apikey=" + ETHERSCAN_KEY
-
-    etherscan += "&address=#{address}"
-
-    puts "  sleeping #{delay_in_s}s..."
-    sleep( delay_in_s )
-    data = Webclient.get( etherscan ).json
-    # pp data
-    txns = data['result']
-
+    txns = Etherscan.txlist( address: address )
 
     # check for related addresses and
     #   internal transactions (e.g. transferPunk)
     if txns.size == 0
       puts "!! WARN - no txns found / returned for >#{address}<"
       # Check for internal transactions
-          more_than_n_years = _interal_txn_more_than_n_years_ago(address)
-          if more_than_n_years
-            inactive << address
-            puts "!!  longer than #{YEARS_DORMANT} years for >#{address}<"
-          end
-    else
-      # note: timestamp is a string in json responspe
-      timestamp = txns[0]['timeStamp'].to_i
-      if _more_than_n_years_ago( timestamp )
-         inactive << address
-         puts "  #{txns.size} txn(s)"
-         puts "!!  longer than #{YEARS_DORMANT} years for >#{address}<"
-      end
+      txns =  Etherscan.tokentx( address: address,
+                                 contractaddress: PUNKS_ADDRESS )
+    end
+
+    puts "  #{txns.size} txn(s)"
+    # note: timestamp is a string in json responspe
+    timestamp = txns[0]['timeStamp'].to_i
+
+    time_between = Time.now - Time.at( timestamp )
+    time_between_in_days = time_between  / (60 * 60 * 24)
+    puts "  #{time_between_in_days} day(s)  - #{Time.at( timestamp )}"
+
+    if time_between_in_days > (YEARS_DORMANT * 365)
+      inactive << address
+      puts "!!  longer than #{YEARS_DORMANT} years for >#{address}<"
     end
 end
 
 
+##
+#   todo/fix:
+# ==> [8] query 0x01c59869B44F3Fc5420dbB9166a735CdC020E9Ae...
+# [debug] GET /api?module=account&action=txlist&address=...
+# 200 OK -  content_type: application/json, content_length: 172
+# !! ETHERSCAN API ERROR:
+# 0 No transactions found - []
+#
+#  - add 0 and No transactions found with result empty
+#       as a successs!!!  do not exit!!!!
+
+
+
+__END__
 
 
 total_punks_lost = 0
